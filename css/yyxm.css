@@ -1,0 +1,260 @@
+@charset "UTF-8";
+.cont{
+	width: 17.25rem;
+	padding:0 0.75rem;
+	height: 8.15rem;
+}
+.cont .msg{
+	font-size: 0.75rem;
+	color: #4A4A4A;
+	letter-spacing: 0.0rem;
+	line-height: 1.15rem;
+	width: 16.75rem;
+	padding-top: 0.5rem;
+}
+.cont .xian{
+	height: 0.025rem;
+	background:  #E0E0E0;
+	width: 100%;
+	margin: 0.75rem 0;
+}
+.qg-l i{
+	font-size: 0.7rem;
+	color: #D7B359;
+	letter-spacing: 0px;
+	line-height: 0.825rem;
+}
+.qg-l b{
+	font-size: 0.6rem;
+	color: #9B9B9B;
+	letter-spacing: 0px;
+}
+.qg-btn{
+	width:4.5rem;
+	height: 1.7rem;
+	line-height:  1.7rem;
+	text-align: center;
+	background: #F2F2F2;
+	border-radius: 0.2rem;
+	font-size: 0.6rem;
+	color: #9B9B9B;
+	letter-spacing: 0px;
+	margin-top: 0.55rem;
+}
+.progress{
+	width: 11.8rem;
+	height: 0.5rem;
+	border: 1px solid #D7B359;
+	border-radius: 2.5rem;
+	margin: 0.35rem 0;
+	position: relative;
+}
+.progress p{
+	display: block;
+	width: 0.5rem;
+	height: 0.5rem;
+	position: absolute;
+	border-radius: 2.5rem;
+
+	background: #D7B359;
+}
+.w-show{
+	width: 17.95rem;
+	height: 30rem;
+	background: #F2F2F2; 
+	padding: 0.5rem 0.4rem;
+}
+
+.tabBox .hd{width: 100%;height: 2.25rem;background:#fff;border-bottom: 0.025rem solid #E0E0E0;}
+.tabBox .hd ul{ overflow:hidden; padding: 0 2.825rem;}
+.tabBox .hd ul li{
+	float: left;
+	padding-top: 0.15rem;
+	min-width: 1.75rem;
+}
+.tabBox .hd a{
+	display: block;
+	height: 1.95rem;
+	line-height: 1.95rem;
+	font-size: 0.75rem;
+	color: #4A4A4A;
+	letter-spacing: 0px;
+}
+.tabBox .hd ul li:nth-child(2){
+	margin: 0 2.0rem;
+}
+.line{
+	height: 0.15rem;
+	width: 1.75rem;
+	background: #D7B359;
+	display: block; 
+	margin: 0 auto;
+}
+.tabBox {
+	border-radius: 0.2rem;
+	background: #fff;
+}
+.bd{
+	width: 100%;
+}
+.twxq{
+	width: 15.95rem;
+	padding: 0.5rem 1.0rem;
+}
+.tit{
+	margin-top: 0.5rem;
+}
+.tit li{
+	float: left;
+	font-size: 0.75rem;
+	color: #D7B359;
+	letter-spacing: 0px;
+	height: 0.75rem;
+	line-height: 0.75rem;
+}
+.tit li:nth-child(1) img{
+	width: 0.675rem;
+	height: 0.675rem;
+	/*vertical-align: middle;*/
+	margin-top: 0.05rem;
+	margin-right: 0.35rem;
+}
+.tit li:nth-child(3) img
+{
+	width: 11.275rem;
+	/*vertical-align: middle;*/
+	margin-top: 0.25rem;
+	margin-left: 0.45rem;
+
+}
+.twxq p{
+	width: 14.825rem;
+	font-size: 0.65rem;
+	color: #4A4A4A;
+	letter-spacing: 0px;
+	line-height: 0.825rem;
+	margin-left: 1.075rem;
+	margin-top: 0.5rem;
+}
+.shxg-t{
+	width: 13.75rem;
+	height: 8.0rem;
+	margin-top: 0.675rem;
+	margin-left: 1.55rem;
+}
+.wqjx{
+	width: 15.95rem;
+	padding: 0 0.625rem;
+	padding-top: 0.25rem;
+}
+.list{
+	position: relative;
+	margin-top: 0.975rem;
+}
+.list-w{
+	width: 14.975rem;
+	height: 1.75rem;
+	background: #FFFFFF;
+	border: 0.05rem solid #EDEDED;
+	border-radius: 0.2rem;
+	padding: 0.725rem 0.85rem;
+}
+.list-w p{
+	width: 6.45rem;
+	float: left;
+	font-size: 0.6rem;
+	color: #6D6D6D;
+	letter-spacing: 0px;
+	line-height: 0.825rem;
+}
+.list-w p:nth-child(even){
+	float: right;
+}
+.list .logo{
+	width: 1.45rem;
+	height: 1.275rem;
+	position: absolute;
+	top: -0.25rem;
+	right: 0rem;
+}
+.open{
+	font-size: 0.6rem;
+	color: #9B9B9B;
+	letter-spacing: 0px;
+	margin-top: 0.3rem;
+
+}
+.xysd{
+	width: 16.95rem;
+	margin: 0 auto;
+	padding: 0.75rem 0.5rem;
+
+}
+.d-list{
+	width: 100%;
+	padding-bottom: 0.5rem;
+}
+.d-show img{
+	width: 100%;
+}
+.d-show{
+    width:100%;
+    box-sizing:border-box;
+    overflow-x:scroll;
+    overflow-y:hidden;
+    white-space: nowrap;
+	height: 5.35rem;
+}
+.d-show dd{
+	width: 5.35rem;
+	height: 5.35rem;
+    display:inline-block;
+    vertical-align:middle;
+    margin-right:0.275rem; 
+}
+.d-list p{
+	font-size: 0.7rem;
+	color: #4A4A4A;
+	letter-spacing: 0.0rem;
+	line-height: 0.875rem;
+	margin-top: 0.375rem;
+}
+.tiao{
+	width: 1.125rem;
+	height: 0.1rem;
+	background: #4A4A4A;
+	margin-top: 0.5rem;
+	margin-bottom: 0.8rem;
+}
+.xysd .msg{
+	height: 0.65rem;
+}
+.msg dd{
+	font-size: 0.65rem;
+	color: #4A4A4A;
+	letter-spacing: 0.0rem;
+	float: left;
+	line-height: 0.65rem;
+}
+.good img{
+	float: left;
+	width: 0.675rem;
+	height: 0.65rem;
+	margin-right: 0.25rem;
+}
+.good{
+	margin-left: 0.75rem;
+}
+.like img{
+	width: 0.7rem;
+	height: 0.65rem;
+	margin-right: 0.25rem;
+}
+.msg .like{
+	float: right;
+}
+.xysd .xian{
+	height: 0.05rem;
+	background: #D7D4D4;
+	margin-bottom: 0.5rem;
+}
