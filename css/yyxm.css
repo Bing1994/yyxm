@@ -16,7 +16,7 @@
 	height: 0.025rem;
 	background:  #E0E0E0;
 	width: 100%;
-	margin: 0.75rem 0;
+	margin: 0.7rem 0;
 }
 .qg-l i{
 	font-size: 0.7rem;
@@ -55,8 +55,84 @@
 	height: 0.5rem;
 	position: absolute;
 	border-radius: 2.5rem;
-
 	background: #D7B359;
+}
+.djs p{
+	font-size: 0.7rem;
+	color: #D7B359;
+	letter-spacing: 0px;
+	line-height: 0.7rem;
+}
+.d-time{
+	margin: 0.2rem 0 0.15rem;
+}
+.d-time ul{
+	width: 7.6rem;
+	height: 1.425rem;
+	background: #D7B359;
+	border-radius: 8px;
+	padding-top: 0.275rem;
+}
+.d-time div{
+	font-size: 0.6rem;
+	color: #D7B359;
+	letter-spacing: 0px;
+	text-align: center;
+	line-height: 1.7rem;
+}
+.d-time ul li{
+	width: 33%;
+	height: 1.15rem;
+	line-height: 1.15rem;
+	float: left;
+	display: table;
+	text-align: center;
+	font-size: 1.0rem;
+	color: #FFFFFF;
+	letter-spacing: 0px;
+}
+.d-time ul li:nth-child(2){
+	border-left: 2px solid #fff;
+	border-right: 2px solid #fff;
+}
+.d-time .rules{
+	width: 4.0rem;
+	height: 1.7rem;
+	border: 0.025rem solid #D7B359;
+	border-radius: 0.2rem;
+	margin-left: 0.575rem;
+}
+.d-time .join{
+	width: 4.5rem;
+	height: 1.7rem;
+	border: 0.025rem solid #D7B359;
+	border-radius: 0.2rem;
+}
+.djs i{
+	font-size: 0.55rem;
+	color: #9B9B9B;
+	letter-spacing: 0.0rem;
+	line-height: 0.75rem;
+}
+.kj{
+	position: relative;
+	padding-left: 0.25rem;
+}
+.kj .list-w{
+	
+	border: 0.05rem solid #D7B359;
+}
+.kj .list-w p{
+	font-size: 0.6rem;
+	color: #D7B359;
+	letter-spacing: 0.0rem;
+}
+.kj img{
+	position: absolute;
+	top: -0.2rem;
+	right: 1.1rem;
+	width: 1.45rem;
+	height: 1.275rem;
 }
 .w-show{
 	width: 17.95rem;
@@ -175,7 +251,7 @@
 	height: 1.275rem;
 	position: absolute;
 	top: -0.25rem;
-	right: 0rem;
+	right: 0.85rem;
 }
 .open{
 	font-size: 0.6rem;
@@ -213,11 +289,11 @@
     margin-right:0.275rem; 
 }
 .d-list p{
-	font-size: 0.7rem;
-	color: #4A4A4A;
-	letter-spacing: 0.0rem;
-	line-height: 0.875rem;
 	margin-top: 0.375rem;
+	font-size: 0.65rem;
+	color: #4A4A4A;
+	letter-spacing: 0px;
+	line-height: 0.8rem;
 }
 .tiao{
 	width: 1.125rem;
