@@ -239,7 +239,7 @@
 	width: 6.45rem;
 	float: left;
 	font-size: 0.6rem;
-	color: #6D6D6D;
+	color: #4A4A4A;
 	letter-spacing: 0px;
 	line-height: 0.825rem;
 }
@@ -261,13 +261,13 @@
 
 }
 .xysd{
-	width: 16.95rem;
+	width: 15.95rem !important;
 	margin: 0 auto;
 	padding: 0.75rem 0.5rem;
 
 }
 .d-list{
-	width: 100%;
+	width: 16.95rem;
 	padding-bottom: 0.5rem;
 }
 .d-show img{
