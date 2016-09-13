@@ -4,7 +4,7 @@
 .flickerplate .dot-navigation{position:absolute;bottom:0;width:100%;text-align:center;z-index:100}
 .flickerplate .dot-navigation ul{text-align:center;list-style:none;margin: 0;margin-bottom: 0.5rem;}
 .flickerplate .dot-navigation ul li{display:inline-block;float:none}
-.flickerplate .dot-navigation .dot{width:1.25rem;height:0.15rem;background:opacity: 0.55;
+.flickerplate .dot-navigation .dot{width:1.25rem;height:0.15rem;opacity: 0.55;
 background: #F2F2F2;transition:background-color 0.2s ease-out;-o-transition:background-color 0.2s ease-out;-ms-transition:background-color 0.2s ease-out;transition:background-color 0.2s ease-out}
 .flickerplate .dot-navigation .dot:hover{cursor:pointer;background-color:rgba(255,255,255,0.6)}
 .flickerplate .dot-navigation .dot.active{background-color:#D7B359;}
